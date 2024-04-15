@@ -11,6 +11,11 @@ The purspose of this project is to refactor the original code to make it easier 
 ## End Product
 
 
+Website:
+
+https://jguzman87.github.io/better-horiseons/
+
+![Horiseon site](image.png)
 
 ## Contact Information
 
