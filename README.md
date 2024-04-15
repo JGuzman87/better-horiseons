@@ -8,7 +8,7 @@ The purspose of this project is to refactor the original code to make it easier 
 
 * The style.css sheet was condensed to improve website performance and reduce data usage.
 
-## End Product
+## Installation
 
 
 Website:
